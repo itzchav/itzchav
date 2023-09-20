@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - [![AUTOSTART](https://github.com/ERICKLOCR/AUTOSART)](https://github.com/ERICKLOCR/AUTOSART)
 - [![SSH entre Jetson Nano y computadora](https://github.com/itzchav/SSH)](https://github.com/itzchav/SSH)
-- [![SSH entre Jetson Nano y computadora]](https://github.com/itzchav/SSH)
+- ![SSH entre Jetson Nano y computadora](https://github.com/itzchav/SSH)
 
 # TURTLEBOT 
 - [![MATLAB](https://github.com/ERICKLOCR/MATLAB_ROS_.git)](https://github.com/ERICKLOCR/MATLAB_ROS_.git)
