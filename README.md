@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 # JETSON 
 
-- [![AUTOSTART](https://github.com/ERICKLOCR/AUTOSART)](https://github.com/ERICKLOCR/AUTOSART)
+- [![AUTOSTART](https://github.com/itzchav/AUTOSTART)](https://github.com/itzchav/AUTOSTART)
 - [![SSH entre Jetson Nano y computadora](https://github.com/itzchav/SSH)](https://github.com/itzchav/SSH)
-- ![SSH entre Jetson Nano y computadora](https://github.com/itzchav/SSH)
+
 
 # TURTLEBOT 
-- [![MATLAB](https://github.com/ERICKLOCR/MATLAB_ROS_.git)](https://github.com/ERICKLOCR/MATLAB_ROS_.git)
-
+- [![MATLAB Y ROS](https://github.com/itzchav/MATLAB_Y_ROS)](https://github.com/itzchav/MATLAB_Y_ROS)
+- [![TURTLEBOT_CONTROLADO_CON_JOYSTICK](https://github.com/itzchav/TURTLEBOT_CONTROLADO_CON_JOYSTICK)](https://github.com/itzchav/TURTLEBOT_CONTROLADO_CON_JOYSTICK)
 
