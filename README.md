@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 # JETSON 
 
 -[AUTOSTART](https://github.com/itzchav/AUTOSTART)
-
 -[Conexión inalámbrica mediante SSH entre Jetson Nano y computadora](https://github.com/itzchav/SSH)
 
 
