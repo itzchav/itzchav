@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 # JETSON 
 
 - [![AUTOSTART](https://github.com/itzchav/AUTOSTART)](https://github.com/itzchav/AUTOSTART)
-- [![SSH entre Jetson Nano y computadora](https://github.com/itzchav/SSH)](https://github.com/itzchav/SSH)
+- [![Conexión inalámbrica(SSH entre Jetson Nano y computadora)](https://github.com/itzchav/SSH)](https://github.com/itzchav/SSH)
 
 
 # TURTLEBOT 
