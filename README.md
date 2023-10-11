@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 # TURTLEBOT 
-
+- [Instalación del Turtlebot2](https://github.com/itzchav/Instalacion_Turtlebot2/blob/main/README.md)
 - [MATLAB Y ROS](https://github.com/itzchav/MATLAB_Y_ROS)
 - [TURTLEBOT_CONTROLADO_CON_JOYSTICK](https://github.com/itzchav/TURTLEBOT_CONTROLADO_CON_JOYSTICK)
 
