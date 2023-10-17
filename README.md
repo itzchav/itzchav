@@ -33,3 +33,8 @@ Here are some ideas to get you started:
 - [Matlab Y ROS](https://github.com/itzchav/MATLAB_Y_ROS)
 - [TURTLEBOT_CONTROLADO_CON_JOYSTICK](https://github.com/itzchav/TURTLEBOT_CONTROLADO_CON_JOYSTICK)
 
+# Proyectos
+- [Lecturas de archivos](https://github.com/itzchav/Lectura-de-archivos.git)
+- [Juego-Sopa-de-Numeros](https://github.com/itzchav/MATLAB_Y_ROS)](https://github.com/itzchav/Juego-Sopa-de-Numeros.git)
+- [TensorFlow-Probabilidad-Condicional](https://github.com/itzchav/TensorFlow-Probabilidad-Condicional.git)https://github.com/itzchav/TensorFlow-Probabilidad-Condicional.git
+
